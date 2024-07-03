@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Binay
-- 👀 I’m interested in playing Lawn Tennis
+- 👀 I’m interested in playing Lawn Tennis and doing system programming
 - 🌱 I’m currently learning ... DSA, System Programming, 
 - 💞️ I’m looking to collaborate on AI/ML Projects
 - 📫 How to reach me on Linkdeln I guess
