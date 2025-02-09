@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Binay</h1>
 <h3 align="center">A Computer Science Junior at Pennsylvania State University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bkd-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="bkd-dotcom" /> </p>
 
 - 🔭 I’m currently working on [QAOA Implementation into AI Tranformer Model for Optimization Purpose](https://github.com/bkd-dotcom/Transformer-Project)
 
