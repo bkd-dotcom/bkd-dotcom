@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Senior at Pennsylvania State University</h3>
 
 
-- 🔭 I’m currently working on [QAOA Implementation into AI Tranformer Model for Optimization Purpose](https://github.com/bkd-dotcom/Transformer-Project)
+- 🔭 I have published my research on  [QAOA Implementation into AI Tranformer Model for Optimization Purpose](https://github.com/bkd-dotcom/Transformer-Project)
 
 - 🌱 I’m currently learning **React JS, Docker, AWS**
 
