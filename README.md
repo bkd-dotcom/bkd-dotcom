@@ -13,7 +13,7 @@ proves what an AI coding agent was allowed to change.
 -  **IEEE NMITCON 2025** — *Quantum-Assisted Optimization for Transformer Architectures* (QAOA, +43% efficiency). [Paper](https://ieeexplore.ieee.org/document/11188070) · [ORCID](https://orcid.org/0009-0009-6285-8305)
 -  **Honors thesis (in progress)** — LLM-assisted formal verification of the 5G-AKA authentication protocol (SAT/SMT, Rocq/Coq).
 
-**Experience:** IBM (generative-AI + watsonx; Watson services on OpenShift for Fortune 500 clients) · Lockheed Martin (RL for threat assessment, 85% success rate).
+**Experience:** IBM (generative-AI + watsonx; Watson services on OpenShift for clients) · Lockheed Martin (RL for threat assessment, 85% success rate).
 
 **Focus:** PyTorch · Qiskit/QAOA · Z3/SMT · formal verification · RL · Python / C / Java / TypeScript
 
