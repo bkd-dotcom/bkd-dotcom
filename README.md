@@ -8,8 +8,6 @@
 Application Developer Intern @IBM
 
 [![Website](https://img.shields.io/badge/binaydalai.me-1A1712?style=flat-square&labelColor=1A1712&color=6E56CF)](https://binaydalai.me)
-[![ORCID](https://img.shields.io/badge/Research-ORCID-6E56CF?style=flat-square)](https://orcid.org/0009-0009-6285-8305)
-[![IEEE](https://img.shields.io/badge/IEEE-NMITCON%202025-6E56CF?style=flat-square)](https://ieeexplore.ieee.org/document/11188070)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-binay--dalai-6E56CF?style=flat-square)](https://www.linkedin.com/in/binay-dalai)
 
 </div>
